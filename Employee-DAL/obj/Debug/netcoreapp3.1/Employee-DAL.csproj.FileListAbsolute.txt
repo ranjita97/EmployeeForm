@@ -1,0 +1,13 @@
+F:\SKILLS\EmployeeForm\Employee-DAL\bin\Debug\netcoreapp3.1\Employee-DAL.deps.json
+F:\SKILLS\EmployeeForm\Employee-DAL\bin\Debug\netcoreapp3.1\Employee-DAL.runtimeconfig.json
+F:\SKILLS\EmployeeForm\Employee-DAL\bin\Debug\netcoreapp3.1\Employee-DAL.runtimeconfig.dev.json
+F:\SKILLS\EmployeeForm\Employee-DAL\bin\Debug\netcoreapp3.1\Employee-DAL.dll
+F:\SKILLS\EmployeeForm\Employee-DAL\bin\Debug\netcoreapp3.1\Employee-DAL.pdb
+F:\SKILLS\EmployeeForm\Employee-DAL\obj\Debug\netcoreapp3.1\Employee-DAL.csproj.AssemblyReference.cache
+F:\SKILLS\EmployeeForm\Employee-DAL\obj\Debug\netcoreapp3.1\Employee-DAL.GeneratedMSBuildEditorConfig.editorconfig
+F:\SKILLS\EmployeeForm\Employee-DAL\obj\Debug\netcoreapp3.1\Employee-DAL.AssemblyInfoInputs.cache
+F:\SKILLS\EmployeeForm\Employee-DAL\obj\Debug\netcoreapp3.1\Employee-DAL.AssemblyInfo.cs
+F:\SKILLS\EmployeeForm\Employee-DAL\obj\Debug\netcoreapp3.1\Employee-DAL.csproj.CoreCompileInputs.cache
+F:\SKILLS\EmployeeForm\Employee-DAL\obj\Debug\netcoreapp3.1\Employee-DAL.dll
+F:\SKILLS\EmployeeForm\Employee-DAL\obj\Debug\netcoreapp3.1\Employee-DAL.pdb
+F:\SKILLS\EmployeeForm\Employee-DAL\obj\Debug\netcoreapp3.1\Employee-DAL.genruntimeconfig.cache
